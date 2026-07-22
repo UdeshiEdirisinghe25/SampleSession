@@ -1,5 +1,5 @@
 function greet() {
-    console.log("Welcome to GitHub Workshop");
+    console.log("Welcome to GitHub session");
 }
 
 greet();

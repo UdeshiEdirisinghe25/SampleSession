@@ -1,5 +1,5 @@
 function greet() {
-    console.log("Welcome");
+    console.log("Welcome to the application!");
 }
 
 greet();
